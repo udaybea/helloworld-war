@@ -1,4 +1,4 @@
-<project name="helloworlddtest" default="war">
+<project name="helloworldtest" default="war">
 	<property name="src" location="src/java" />
 	<property name="libcompile" location="lib/compile" />
 	<property name="libruntime" location="lib/runtime" />
